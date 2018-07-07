@@ -1,4 +1,4 @@
-baseurl = "http://profe55orx.github.io" # Hostname (and path) to the root.
+baseurl = "https://profe55orx.github.io" # Hostname (and path) to the root.
 title = "profe55orx" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en" # The site’s language code.
@@ -10,7 +10,7 @@ pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
-disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
+disqusShortname = "profe55orx" # Enable or disable Disqus
 
 [params] # theme parameters
     author = "Profe55or X" # Author's name.
